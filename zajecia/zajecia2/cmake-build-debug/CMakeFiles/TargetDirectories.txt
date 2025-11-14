@@ -1,0 +1,3 @@
+O:/Studia/Projekt1/Projekt1/cmake-build-debug/CMakeFiles/Projekt1.dir
+O:/Studia/Projekt1/Projekt1/cmake-build-debug/CMakeFiles/edit_cache.dir
+O:/Studia/Projekt1/Projekt1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
